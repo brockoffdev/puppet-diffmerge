@@ -1,6 +1,6 @@
 # Skype Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-skype.png?branch=master)](https://travis-ci.org/boxen/puppet-skype)
+[![Build Status](https://travis-ci.org/brockoffdev/puppet-diffmerge.png?branch=master)](https://travis-ci.org/brockoffdev/puppet-diffmerge)
 
 ## Usage
 
