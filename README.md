@@ -5,7 +5,7 @@
 ## Usage
 
 ```puppet
-include skype 
+include diffmerge
 ```
 
 ## Required Puppet Modules

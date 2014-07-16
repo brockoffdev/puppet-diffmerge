@@ -1,11 +1,11 @@
-# Public: Install Skype.app to /Applications.
+# Public: Install Diffmerge.app to /Applications.
 #
 # Examples
 #
-#   include skype
-class skype {
-  package { 'Skype':
-    provider => 'appdmg',
-    source   => 'http://download.skype.com/macosx/Skype_6.15.60.330.dmg',
+#   include diffmerge
+class diffmerge {
+  package { 'DiffMerge':
+    provider => 'appdmg_eula',
+    source   => 'http://download-us.sourcegear.com/DiffMerge/4.2.0/DiffMerge.4.2.0.697.intel.stable.dmg'
   }
 }
